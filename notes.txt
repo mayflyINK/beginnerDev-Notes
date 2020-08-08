@@ -1,0 +1,5 @@
+Github Notes
+- Git is version control software
+- Github is a web service running git
+- Repository is a 'project' of stuff
+- Commit is 'save', or commit to changing file
