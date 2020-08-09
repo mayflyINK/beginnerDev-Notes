@@ -4,3 +4,4 @@ Github Notes
 - Repository is a 'project' of stuff
 - Commit is 'save', or commit to changing file
 - Add a descirption to each commit for context when collaborating
+- A commit generates a unique identifier (hash, alphanumeric string) seen in commit history page
