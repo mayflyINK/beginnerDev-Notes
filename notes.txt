@@ -6,11 +6,14 @@ Contents
 - JavaScript, TypeScript
 
 Github Notes
-- Git is version control software
-- Github is a web service running git
-- Repository is a 'project' of stuff
-- Commit is 'save', or commit to changing file
-- Add a descirption to each commit for context when collaborating
-- A commit generates a unique identifier (hash, alphanumeric string) seen in commit history page
+- git is version control software
+- github is a web service running git
+- repository is a 'project' of stuff
+- commit is 'save', or commit to changing file
+- add a descirption to each commit for context when collaborating
+- a commit generates a unique identifier (hash, alphanumeric string) seen in commit history page
 - branch creates a new version, seperate from master
+- pull request from master, merges work from branch
+- fork makes another instance of the same project in another repo
+- pull request from a fork, is a request for the orginal repo owner to merge any changes
 
