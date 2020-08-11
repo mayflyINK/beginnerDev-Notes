@@ -8,6 +8,7 @@ Contents
 Tools you will need:
 - install Git for Windows, which includes Git Bash (Bourne Again Shell)
  - Unix shell emulator for Windows (terminal window)
+- select preferred code editor and default settings.
 
 References:
 https://gitforwindows.org/
