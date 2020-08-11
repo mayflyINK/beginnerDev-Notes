@@ -5,6 +5,15 @@ Contents
 - HTML, CSS, SASS
 - JavaScript, TypeScript
 
+Tools you will need:
+- install Git for Windows, which includes Git Bash (Bourne Again Shell)
+ - Unix shell emulator for Windows (terminal window)
+
+References:
+https://gitforwindows.org/
+https://www.atlassian.com/git/tutorials/git-bash
+https://www.youtube.com/watch?v=qdwWe9COT9k
+
 Github Notes
 - git is version control software
 - github is a web service running git
