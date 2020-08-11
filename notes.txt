@@ -15,5 +15,11 @@ Github Notes
 - branch creates a new version, seperate from master
 - pull request from master, merges work from branch
 - fork makes another instance of the same project in another repo
-- pull request from a fork, is a request for the orginal repo owner to merge any changes
+- pull request from a fork, is a request for the orginal repo owner to merge any changes from the fork
+- issues are a seperate interface layer ontop of git that allow others to comment and raise issues
+ - only repo owner and issue creater can close issue
+ - reference issue in commit comment "fixed issue #no" to close issue on commit
+ - can reference commit hash (url string) in issue comment
+ - can add images to issue
+- 
 
