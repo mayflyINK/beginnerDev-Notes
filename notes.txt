@@ -31,5 +31,20 @@ Github Notes
  - reference issue in commit comment "fixed issue #no" to close issue on commit
  - can reference commit hash (url string) in issue comment
  - can add images to issue
-- 
+ 
+Git Bash
+Open gitbash and use command  "cd $USER" to naviate to windows user directory
+
+- Unix command line prompts
+ - cd = change directory
+  - cd .. = return to previous directory
+  - cd [drop folder - location path] = drag and drop folder from explorer into terminal window
+ - start . = open browser window ("." is current directory)
+ - pwd = print working directory
+ - ls = lists
+  - ls -all = folder/file meta data
+ - clear = clears terminal window
+ - tab = autofill directory name
+ - up/down arrows = scroll through previous commands prompts
+
 
