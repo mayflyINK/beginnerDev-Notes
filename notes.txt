@@ -18,8 +18,9 @@ https://www.youtube.com/watch?v=qdwWe9COT9k
 Github Notes
 - git is version control software
 - github is a web service running git
-- repository is a 'project' of stuff
-- commit is 'save', or commit to changing file
+- repository - is a 'project' of stuff
+ - initialize with README file selected
+- commit - is 'save', or commit to changing file
 - add a descirption to each commit for context when collaborating
 - a commit generates a unique identifier (hash, alphanumeric string) seen in commit history page
 - branch creates a new version, seperate from master
@@ -31,12 +32,36 @@ Github Notes
  - reference issue in commit comment "fixed issue #no" to close issue on commit
  - can reference commit hash (url string) in issue comment
  - can add images to issue
+- clone - copy repo to local machine
  
-Git Bash
-Open gitbash and use command  "cd $USER" to naviate to windows user directory
+Getting started with gitbash
+- Open gitbash
+- cd $USER - to naviate to windows user directory
+- cd [drop folder - location path] eg. desktop
+- pwd - to check "workind directory
+- git - check git is installed, running on machine
+- clear
+- will get warning to sign in, copy and paste git config items (1 at a time)
+    - git config "username"
+    - git config email
+- create repo on github - copy an HTTP address
+- git clone [HTTP address]
+- cd [cloned folder path]
+- make changes to files in folder
+- git status - get repo folder info
+- git commit -a -m "this is commit message" - argument all and commit message (git commands need arguments) 
+- git config --list - will display local git config settings
+- git log - see history of git commits
+(- :q - escape out of VIM text editor)
+- git remote
+ - list remote locations associated with project
+ - git remote -v - argument verbose
+- git push origin master
+ - enter username and password
 
-- Unix command line prompts
+Unix command line prompts
  - cd = change directory
+  - cd $USER = windows user directory
   - cd .. = return to previous directory
   - cd [drop folder - location path] = drag and drop folder from explorer into terminal window
  - start . = open browser window ("." is current directory)
@@ -46,5 +71,5 @@ Open gitbash and use command  "cd $USER" to naviate to windows user directory
  - clear = clears terminal window
  - tab = autofill directory name
  - up/down arrows = scroll through previous commands prompts
-
+- 
 
