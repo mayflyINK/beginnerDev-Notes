@@ -30,9 +30,9 @@ List 2
  - to do it
  
 List 3
-1. This 
-1. is an ordered list
- 1. with 4 spaces preceding
+1. This is
+1. an ordered list
+  1. with 4 spaces preceding
 
 ### GitHub Markdown
 ```javascript
