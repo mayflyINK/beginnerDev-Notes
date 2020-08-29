@@ -1,15 +1,15 @@
 # Beginner Markdown
 
-# Heading 1
-## Heading 2
-### Heading 3
+# Create Heading 1 with a single #
+## Create Heading 3 with a single ##
+### Create Heading 3 with a single ###
 
 *Italics* or _italics_, **Bold** or __bold__ and ~~strikethrough~~
 
-This text becomes a heading `using --- or ___`
+This text becomes a heading
 ---
 ---
-or
+using --- or ___
 ___
 
 `\` linebreak or escapes markup\
