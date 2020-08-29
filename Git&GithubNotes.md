@@ -1,8 +1,9 @@
 # Notes on Git and GitHub for Windows Machines
 ## Tools you will need:
-- install Git for Windows, which includes Git Bash (Bourne Again Shell)
- - Unix shell emulator for Windows (terminal window)
-- select preferred code editor and default settings.
+- (make sure you install VS Code first so you can use it as your default git code editor)
+- install "Git for Windows" which includes GitBash (Bourne Again Shell)
+ - GitBash is a unix shell emulator (terminal window) for Windows
+- select preferred code editor (VS Code) and default settings
 
 #### References:
 https://gitforwindows.org/<br/>
@@ -32,6 +33,8 @@ https://www.youtube.com/watch?v=qdwWe9COT9k<br/>
 #### Getting started with gitbash
 - Open gitbash
 - cd $USER - to naviate to windows user directory
+- Open config settings
+ - git config --list (use `shift + insert`to paste into terminal window)
 - set username and email
  - $ git config --global user.name "username"
  - $ git config --global user.email email@email.com
@@ -98,7 +101,7 @@ https://www.youtube.com/watch?v=qdwWe9COT9k<br/>
   - cd [drop folder - location path] = drag and drop folder from explorer into terminal window
  - start . = open browser window ("." is current directory)
  - pwd = print working directory
- - ls = lists
+ - ls = lists files in active directory
   - ls -all = folder/file meta data
  - clear = clears terminal window
  - tab = autofill directory name
