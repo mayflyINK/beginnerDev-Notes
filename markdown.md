@@ -1,11 +1,11 @@
-Markdown
+# Markdown
 
 # Heading 1
-## Heading 2.  ...ect
-
+## Heading 2
+### Heading 3 ...ect
 *Italics* or _italics_\
-**Bold** or __bold__
-~~strikethrough~~
+**Bold** or __bold__\
+~~strikethrough~~\
 --- or ___   is horizontal rule
 \ escapes markup
 > blockquote
