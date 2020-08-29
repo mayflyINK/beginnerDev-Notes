@@ -6,19 +6,19 @@
 
 *Italics* or _italics_, **Bold** or __bold__ and ~~strikethrough~~
 
-This text becomes a heading
+This text becomes a heading `using --- or ___`
 ---
 ---
 or
 ___
 
-\ linebreak or escapes markup
+`\` linebreak or escapes markup\
 `<br/>` or `double space` is a linebreak<br/>
 > blockquote\
 [Displayed link text](https://websitelink)\
 ![Display image](https://imagelocation.com/img/123.jpg)
 
-`this is a code block`
+`insert text between tilde to create this is a code block`
 
 List 1
 * This is an
