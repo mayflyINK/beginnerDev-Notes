@@ -2,11 +2,11 @@
 contains notes on basic web development for beginners
 
 #### Contents
-- VS Code
-- GitBash
-- Github
-- HTML, CSS, SASS
-- JavaScript, TypeScript
+1. GitBash
+1. Github
+1. VS Code
+1. HTML, CSS, SASS
+1. JavaScript, TypeScript
 
 #### Tutorials
 - Daniel Shiffman - The Coding Train
