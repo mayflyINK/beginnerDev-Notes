@@ -6,7 +6,8 @@
 
 *Italics* or _italics_, **Bold** or __bold__ and ~~strikethrough~~
 
-These are horizontal lines
+This text becomes a heading
+---
 ---
 or
 ___
