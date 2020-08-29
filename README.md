@@ -1,12 +1,15 @@
 # beginnerDev-Notes
 contains notes on basic web development for beginners
 
-**Contents**
+#### Contents
 - VS Code
 - GitBash
 - Github
 - HTML, CSS, SASS
 - JavaScript, TypeScript
 
-**Tutorials**
-Daniel Shiffman - The Coding Train
+#### Tutorials
+- Daniel Shiffman - The Coding Train
+- CJ - Coding Garden with CJ
+- Traversy Media
+
