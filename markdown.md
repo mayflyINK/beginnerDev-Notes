@@ -11,9 +11,10 @@
 ---
 or
 ___
-
 is horizontal rule\
-\ escapes markup
+
+\ linebreak or escapes markup
+<br/> or (double space) is a linebreak<br/>
 > blockquote
 [Displayed link text](https://websitelink)
 ![display image](https://imagelocation.com/img/123.jpg)
