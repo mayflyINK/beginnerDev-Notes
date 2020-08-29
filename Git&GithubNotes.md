@@ -5,10 +5,10 @@
 - select preferred code editor and default settings.
 
 #### References:
-https://gitforwindows.org/
-https://www.atlassian.com/git/tutorials/git-bash
-https://www.atlassian.com/git/tutorials/install-git#windows
-https://www.youtube.com/watch?v=qdwWe9COT9k
+https://gitforwindows.org/<br/>
+https://www.atlassian.com/git/tutorials/git-bash<br/>
+https://www.atlassian.com/git/tutorials/install-git#windows<br/>
+https://www.youtube.com/watch?v=qdwWe9COT9k<br/>
 
 #### Github Notes
 - git is version control software
