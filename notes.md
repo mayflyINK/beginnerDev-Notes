@@ -1,14 +1,5 @@
-Contents
-- VS Code
-- GitBash
-- Github
-- HTML, CSS, SASS
-- JavaScript, TypeScript
-
-Tutorials
-Daniel Shiffman - The Coding Train
-
-Tools you will need:
+# Notes on Git and GitHub
+## Tools you will need:
 - install Git for Windows, which includes Git Bash (Bourne Again Shell)
  - Unix shell emulator for Windows (terminal window)
 - select preferred code editor and default settings.
@@ -62,7 +53,7 @@ Getting started with gitbash
 - git push origin master
  - enter username and password
 
-Make folder on local machine a repo on github
+**Make folder on local machine a repo on github**
 - cd [folder directory path]
 - git status - check folder git status
 - git init - initilises git repo
@@ -78,7 +69,7 @@ Make folder on local machine a repo on github
 - if make a change on github website, use terminal to
 - git pull origin master
 
-Github Pages
+**Github Pages**
 - make repo with README
 - make new branch named "gh-pages"
 - change default branch - settings > branches > default branch
@@ -87,9 +78,10 @@ Github Pages
 - go to settings - GitHub Pages to find url
 - make new file - index.html
 
-Merge Conflicts
+**Merge Conflicts**
+//TODO
 
-Git Remotes
+**Git Remotes**
 - git remote remove origin
 - git remote add github [github path/url]
 - to add someone elses remote
@@ -98,7 +90,7 @@ Git Remotes
 - switch th branch
  - git checkout [branch name]
 
-Unix command line prompts
+**Unix command line prompts**
  - cd = change directory
   - cd $USER = windows user directory
   - cd .. = return to previous directory
