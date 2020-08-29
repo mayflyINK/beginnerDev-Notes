@@ -5,6 +5,9 @@ Contents
 - HTML, CSS, SASS
 - JavaScript, TypeScript
 
+Tutorials
+Daniel Shiffman - The Coding Train
+
 Tools you will need:
 - install Git for Windows, which includes Git Bash (Bourne Again Shell)
  - Unix shell emulator for Windows (terminal window)
@@ -33,7 +36,7 @@ Github Notes
  - can reference commit hash (url string) in issue comment
  - can add images to issue
 - clone - copy repo to local machine
- 
+
 Getting started with gitbash
 - Open gitbash
 - cd $USER - to naviate to windows user directory
@@ -59,6 +62,42 @@ Getting started with gitbash
 - git push origin master
  - enter username and password
 
+Make folder on local machine a repo on github
+- cd [folder directory path]
+- git status - check folder git status
+- git init - initilises git repo
+- git status - check status of repo
+- new files needed to be added to the staging environment before commit
+ - git add [file name] - adds file to staging environment
+ - git add . - adds all files that have been changed
+- git commit - to commit new files from the staging environment to repo
+- push to github, need to create a new repo (remote) on github
+ - don't initialise with readme file, make empty repo 
+- git remote add origin [github repo path/url] - ("origin" is just convention could be named anything)
+- git push origin master (if not "origin" use name from above)
+- if make a change on github website, use terminal to
+- git pull origin master
+
+Github Pages
+- make repo with README
+- make new branch named "gh-pages"
+- change default branch - settings > branches > default branch
+ - select "update default branch"
+- delete "master" branch
+- go to settings - GitHub Pages to find url
+- make new file - index.html
+
+Merge Conflicts
+
+Git Remotes
+- git remote remove origin
+- git remote add github [github path/url]
+- to add someone elses remote
+ - git remote add [remote name] [github path/url]
+- git branch [branch name] (where "grahics" could be any name)
+- switch th branch
+ - git checkout [branch name]
+
 Unix command line prompts
  - cd = change directory
   - cd $USER = windows user directory
@@ -71,5 +110,5 @@ Unix command line prompts
  - clear = clears terminal window
  - tab = autofill directory name
  - up/down arrows = scroll through previous commands prompts
-- 
+- git add . -A (add and delete everything)
 
