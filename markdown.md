@@ -24,9 +24,11 @@ ___
 List 1
 * This is an
   * Unordered list nested item with 2 spaces preceding
+  
 List 2
-- <<< thi is another way
+- this is another way
  - to do it
+ 
 List 3
 1. This 
 1. is an ordered list
