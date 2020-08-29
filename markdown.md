@@ -14,8 +14,7 @@ ___
 is horizontal rule
 
 \ linebreak or escapes markup
-> <br/>) or (double space) is a linebreak<br/>
-!
+'<br/>' or 'double space' is a linebreak<br/>
 > blockquote\
 [Displayed link text](https://websitelink)\
 ![Display image](https://imagelocation.com/img/123.jpg)
