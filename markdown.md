@@ -3,13 +3,13 @@
 # Heading 1
 ## Heading 2
 ### Heading 3 ...ect
-*Italics* or _italics_\
-**Bold** or __bold__\
+*Italics* or _italics_
+**Bold** or __bold__
 ~~strikethrough~~\
 ---
 or
 ___
-is horizontal rule
+is horizontal rule\
 \ escapes markup
 > blockquote
 [Displayed link text](https://websitelink)
