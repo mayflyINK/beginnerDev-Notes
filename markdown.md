@@ -11,29 +11,29 @@
 ---
 or
 ___
-is horizontal rule
+^ is horizontal rule
 
 \ linebreak or escapes markup
-'<br/>' or 'double space' is a linebreak<br/>
+`<br/>` or `double space` is a linebreak<br/>
 > blockquote\
 [Displayed link text](https://websitelink)\
 ![Display image](https://imagelocation.com/img/123.jpg)
 
+`this is a code block`
+
 * This is an
  * Unordered list
-  * nested item
+* nested item
 1. This 
 1. is an
-  1. Ordered list
+ 1. Ordered list
 
-`code block`
-
-GitHub Markdown
+### GitHub Markdown
 ```javascript
 Tab js code block
 ```
 
-Table >
+**Table**
 Column A | Column B | Column C
 ---------|----------|---------
 A1 | B1 | C1
@@ -41,5 +41,5 @@ A2 | B2 | C2
 A3 | B3 | C3
 
 
-* [x] task list 1
-* [x] task list 2
+* [x] task list 1 - done
+* [ ] task list 2
