@@ -23,16 +23,16 @@ ___
 
 List 1
 * This is an
- * Unordered list nested item with 2 spaces preceding
+  * Unordered list nested item with 2 spaces preceding
   
 List 2
 - this is another way
- - to do it
+  - to do it
  
 List 3
 1. This is
 1. an ordered list
-  1. with 4 spaces preceding
+    1. with 4 spaces preceding
 
 ### GitHub Markdown
 ```javascript
