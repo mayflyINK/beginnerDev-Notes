@@ -3,7 +3,7 @@ Markdown
 # Heading 1
 ## Heading 2.  ...ect
 
-*Italics* or _italics_
+*Italics* or _italics_\
 **Bold** or __bold__
 ~~strikethrough~~
 --- or ___   is horizontal rule
