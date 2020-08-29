@@ -1,4 +1,4 @@
-# Markdown
+# Beginner Markdown
 
 # Heading 1
 ## Heading 2
@@ -6,7 +6,10 @@
 *Italics* or _italics_\
 **Bold** or __bold__\
 ~~strikethrough~~\
---- or ___   is horizontal rule
+---
+or
+___
+is horizontal rule
 \ escapes markup
 > blockquote
 [Displayed link text](https://websitelink)
