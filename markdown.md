@@ -22,12 +22,14 @@ ___
 `this is a code block`
 
 * This is an
-  * Unordered list nested item
-- < another way to
-- to it
+ * Unordered list nested item with 2 spaces preceding
+ 
+- <<< thi is another way
+- to do it
+
 1. This 
-1. is an
-  1. Ordered list
+1. is an ordered list
+    1. with 4 spaces preceding
 
 ### GitHub Markdown
 ```javascript
