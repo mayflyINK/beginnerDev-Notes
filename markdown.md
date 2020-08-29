@@ -11,17 +11,18 @@
 ---
 or
 ___
-is horizontal rule\
+is horizontal rule
 
 \ linebreak or escapes markup
-(<br/>) or (double space) is a linebreak<br/>
+> <br/>) or (double space) is a linebreak<br/>
+!
 > blockquote\
 [Displayed link text](https://websitelink)\
-![display image](https://imagelocation.com/img/123.jpg)
+![Display image](https://imagelocation.com/img/123.jpg)
 
 * This is an
  * Unordered list
-  *nested item
+  * nested item
 1. This 
 1. is an
   1. Ordered list
