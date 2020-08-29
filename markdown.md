@@ -21,12 +21,13 @@ ___
 
 `this is a code block`
 
+List 1
 * This is an
- * Unordered list nested item with 2 spaces preceding
- 
+  * Unordered list nested item with 2 spaces preceding
+List 2
 - <<< thi is another way
-- to do it
-
+ - to do it
+List 3
 1. This 
 1. is an ordered list
     1. with 4 spaces preceding
