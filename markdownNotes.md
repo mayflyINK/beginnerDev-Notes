@@ -4,14 +4,12 @@
 ## Heading 2
 ### Heading 3
 
-*Italics* or _italics_
-**Bold** or __bold__
-~~strikethrough~~
+*Italics* or _italics_, **Bold** or __bold__ and ~~strikethrough~~
 
+These are horizontal lines
 ---
 or
 ___
-^ is horizontal rule
 
 \ linebreak or escapes markup
 `<br/>` or `double space` is a linebreak<br/>
