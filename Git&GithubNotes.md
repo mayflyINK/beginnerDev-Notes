@@ -1,15 +1,16 @@
-# Notes on Git and GitHub
+# Notes on Git and GitHub for Windows Machines
 ## Tools you will need:
 - install Git for Windows, which includes Git Bash (Bourne Again Shell)
  - Unix shell emulator for Windows (terminal window)
 - select preferred code editor and default settings.
 
-References:
+#### References:
 https://gitforwindows.org/
 https://www.atlassian.com/git/tutorials/git-bash
+https://www.atlassian.com/git/tutorials/install-git#windows
 https://www.youtube.com/watch?v=qdwWe9COT9k
 
-Github Notes
+#### Github Notes
 - git is version control software
 - github is a web service running git
 - repository - is a 'project' of stuff
@@ -28,16 +29,16 @@ Github Notes
  - can add images to issue
 - clone - copy repo to local machine
 
-Getting started with gitbash
+#### Getting started with gitbash
 - Open gitbash
 - cd $USER - to naviate to windows user directory
+- set username and email
+ - $ git config --global user.name "username"
+ - $ git config --global user.email email@email.com
 - cd [drop folder - location path] eg. desktop
 - pwd - to check "workind directory
 - git - check git is installed, running on machine
 - clear
-- will get warning to sign in, copy and paste git config items (1 at a time)
-    - git config "username"
-    - git config email
 - create repo on github - copy an HTTP address
 - git clone [HTTP address]
 - cd [cloned folder path]
@@ -53,7 +54,7 @@ Getting started with gitbash
 - git push origin master
  - enter username and password
 
-**Make folder on local machine a repo on github**
+#### Make folder on local machine a repo on github**
 - cd [folder directory path]
 - git status - check folder git status
 - git init - initilises git repo
@@ -69,7 +70,7 @@ Getting started with gitbash
 - if make a change on github website, use terminal to
 - git pull origin master
 
-**Github Pages**
+#### Github Pages
 - make repo with README
 - make new branch named "gh-pages"
 - change default branch - settings > branches > default branch
@@ -78,10 +79,10 @@ Getting started with gitbash
 - go to settings - GitHub Pages to find url
 - make new file - index.html
 
-**Merge Conflicts**
+#### Merge Conflicts
 //TODO
 
-**Git Remotes**
+#### Git Remotes
 - git remote remove origin
 - git remote add github [github path/url]
 - to add someone elses remote
@@ -90,7 +91,7 @@ Getting started with gitbash
 - switch th branch
  - git checkout [branch name]
 
-**Unix command line prompts**
+#### Unix command line prompts
  - cd = change directory
   - cd $USER = windows user directory
   - cd .. = return to previous directory
@@ -103,4 +104,3 @@ Getting started with gitbash
  - tab = autofill directory name
  - up/down arrows = scroll through previous commands prompts
 - git add . -A (add and delete everything)
-
