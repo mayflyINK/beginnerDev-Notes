@@ -6,7 +6,7 @@
 
 *Italics* or _italics_
 **Bold** or __bold__
-~~strikethrough~~\
+~~strikethrough~~
 
 ---
 or
@@ -14,7 +14,7 @@ ___
 is horizontal rule\
 
 \ linebreak or escapes markup
-<br/> or (double space) is a linebreak<br/>
+(<br/>) or (double space) is a linebreak<br/>
 > blockquote
 [Displayed link text](https://websitelink)
 ![display image](https://imagelocation.com/img/123.jpg)
