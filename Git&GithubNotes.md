@@ -11,7 +11,7 @@ https://www.atlassian.com/git/tutorials/git-bash<br/>
 https://www.atlassian.com/git/tutorials/install-git#windows<br/>
 https://www.youtube.com/watch?v=qdwWe9COT9k<br/>
 
-#### Github Notes
+#### Git & Github Intro
 - git is version control software
 - github is a web service running git
 - repository - is a 'project' of stuff
