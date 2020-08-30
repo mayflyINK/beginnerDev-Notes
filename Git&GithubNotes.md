@@ -96,7 +96,9 @@ https://www.youtube.com/watch?v=qdwWe9COT9k<br/>
  - git checkout [branch name]
 
 #### Unix command line prompts
- - cd = change directory
+- `bash --version` check bash version
+- `git update-git-for-windows` updates git
+- `cd` change directory
   - cd $USER = windows user directory
   - cd .. = return to previous directory
   - cd [drop folder - location path] = drag and drop folder from explorer into terminal window
