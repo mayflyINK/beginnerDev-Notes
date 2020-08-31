@@ -104,8 +104,9 @@ https://www.youtube.com/watch?v=qdwWe9COT9k<br/>
   - cd [drop folder - location path] = drag and drop folder from explorer into terminal window
  - start . = open browser window ("." is current directory)
  - pwd = print working directory
- - ls = lists files in active directory
-  - ls -all = folder/file meta data
+ - `ls` lists files in active directory
+ - `ls -a` shows hidden files
+   - `ls -all` folder/file meta data
  - clear = clears terminal window
  - tab = autofill directory name
  - up/down arrows = scroll through previous commands prompts
