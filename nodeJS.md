@@ -12,6 +12,7 @@ Node is a server-side javascript environment.
 - powershell will close when complete
 - open bash and type `node` to switch node command prompts
 - `console.log('hello world')` to test javascript in terminal
+- `.exit` will return to bash prompts
 
 open bash and type
 - `node -v` to check node version
