@@ -111,3 +111,4 @@ https://www.youtube.com/watch?v=qdwWe9COT9k<br/>
  - tab = autofill directory name
  - up/down arrows = scroll through previous commands prompts
 - git add . -A (add and delete everything)
+- `mkdir [folder name]` creates folder in active directory
