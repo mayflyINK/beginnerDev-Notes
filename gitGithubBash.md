@@ -7,6 +7,7 @@
 
 #### References:
 https://gitforwindows.org/<br/>
+https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup<br/>
 https://www.atlassian.com/git/tutorials/git-bash<br/>
 https://www.atlassian.com/git/tutorials/install-git#windows<br/>
 https://www.youtube.com/watch?v=qdwWe9COT9k<br/>
