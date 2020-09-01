@@ -10,6 +10,8 @@ Node is a server-side javascript environment.
 - press any key to continue will launch windows powershell
 - downloading and installing everything will take some time.
 - powershell will close when complete
+- open bash and type `node` to switch node command prompts
+- `console.log('hello world')` to test javascript in terminal
 
 open bash and type
 - `node -v` to check node version
