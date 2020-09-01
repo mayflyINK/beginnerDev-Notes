@@ -36,7 +36,7 @@ https://www.youtube.com/watch?v=qdwWe9COT9k<br/>
 - `git` check git is installed, running on machine
 - Open config settings
  - `git config --list` (use `shift + insert`to paste into terminal window)
-- set username and email
+- first set username and email
  - $ `git config --global user.name "username"`
  - $ `git config --global user.email email@email.com`
  - `cd $USER` - to naviate to windows user directory
