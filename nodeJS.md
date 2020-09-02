@@ -1,5 +1,6 @@
 # Installing node.js
-Node is a server-side javascript environment.
+node is a server-side environment built on javascript framework/
+node comes with npm (node package manager) which allows you to install application/through the bash terminal
 
 #### Node for Windows (process followed for v12.18.3 LTS)
 - go to https://nodejs.org and download LTS version "recommended for most users"
