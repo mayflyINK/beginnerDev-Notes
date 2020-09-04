@@ -4,7 +4,7 @@ node comes with npm (node package manager) which allows you to install applicati
 
 #### Node for Windows (process followed for v12.18.3 LTS)
 - go to https://nodejs.org and download LTS version "recommended for most users"
-- lanuch install wizard and keep default settings
+- launch install wizard and keep default settings
 - select "Automatically install necessary tools"
   - if you don't select to do this automatically, you will need to install tools manually for node to work
 - selecting "finish" will launch a node script to do the automatic installations using chocolatey
