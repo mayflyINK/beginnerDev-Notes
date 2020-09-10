@@ -1,5 +1,8 @@
 # Installing node.js
-node is a server-side environment built on javascript framework/
+node is a runtime environement for executing javascript outside a browser to build server-side (back-end) services and applications.
+- asynchronous architecture (non-blocking)
+- 
+
 node comes with npm (node package manager) which allows you to install application/through the bash terminal
 
 #### Node for Windows (process followed for v12.18.3 LTS)
@@ -18,3 +21,6 @@ node comes with npm (node package manager) which allows you to install applicati
 open bash and type
 - `node -v` to check node version
 - `npm -v` to check npm version
+
+####References
+Programming with Mosh - https://www.youtube.com/watch?v=TlB_eWDSMt4
