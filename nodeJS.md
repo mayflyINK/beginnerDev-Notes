@@ -1,7 +1,8 @@
 # Installing node.js
 node is a runtime environement for executing javascript outside a browser to build server-side (back-end) services and applications.
+- can access info outside of 'window' and 'document' objects (such as os, file system, network)
+- node uses chrome v8 js engine, chrome js features are available in node.js
 - asynchronous architecture (non-blocking)
-- 
 
 node comes with npm (node package manager) which allows you to install application/through the bash terminal
 
@@ -18,9 +19,12 @@ node comes with npm (node package manager) which allows you to install applicati
 - `console.log('hello world')` to test javascript in terminal
 - `.exit` will return to bash prompts
 
+node wraps js code in a module wrapper function
+`(function (export, require, module, __filename, __dirname) {})`
+
 open bash and type
-- `node -v` to check node version
+- `node --version` or `node -v` to check node version
 - `npm -v` to check npm version
 
-####References
+#### References
 Programming with Mosh - https://www.youtube.com/watch?v=TlB_eWDSMt4
