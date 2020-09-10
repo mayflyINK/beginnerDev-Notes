@@ -21,6 +21,7 @@ node is a runtime environement for executing javascript outside a browser to bui
 open bash and type
 - `node --version` or `node -v` to check node version
 - `npm -v` to check npm version
+- `code .` launches vs code from terminal
 
 node wraps js code in a module wrapper function
 `(function (export, require, module, __filename, __dirname) {})`
