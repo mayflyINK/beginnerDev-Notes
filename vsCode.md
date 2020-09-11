@@ -2,6 +2,7 @@
 
 #### Settings JSON
 Make gitbash default terminal window in VS Code
+```
 "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe"
 
 {
@@ -17,11 +18,11 @@ Make gitbash default terminal window in VS Code
     "background": "black"
   }
 }
-
+```
 #### Shortcuts
-`ctrl + shft + P` open command pallete
-`ctrl ,` open settings
-`f2` rename variable and function simultaneously
+- `ctrl + shft + P` open command pallete
+- `ctrl ,` open settings
+- `f2` rename variable and function simultaneously
 
 #### Emmet
-`!` html start doc
+- `!` html start doc
