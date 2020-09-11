@@ -1,4 +1,5 @@
-#VS Code
+# VS Code
+Install vs code
 
 #### Settings JSON
 Make gitbash default terminal window in VS Code
