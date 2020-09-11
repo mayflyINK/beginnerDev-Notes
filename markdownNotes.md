@@ -35,7 +35,7 @@ List 3
 
 ### GitHub Markdown
 ```javascript
-Tab js code block
+js code block
 ```
 
 **Table**
