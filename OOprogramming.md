@@ -1,7 +1,7 @@
 # Object-oriented Programming
 #### Encapsulation
-Reduce complexity and increase usability by grouping related variables and functions in a "unit" called an object
-  - variables called properties
+Reduce complexity and increase usability by grouping related data and functionality into a single unit called an object
+  - data (variables) called properties
   - functions called methods
   
   Object examples:\
