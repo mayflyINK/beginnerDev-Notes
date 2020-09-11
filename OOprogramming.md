@@ -4,7 +4,7 @@ Reduce complexity and increase usability by grouping related variables and funct
   - variables called properties
   - functions called methods
   
-  Object examples:
+  Object examples:\
   Car
   - properties: make, model, colour
   - methods: start, stop, move
@@ -49,7 +49,7 @@ employee.getWage();
 - reduce "if, then, else" and "switch and case" statements
 
 #### References
-Programming with Mosh
-https://www.youtube.com/watch?v=pTB0EiLXUC8&t=17s
-The Coding Train
-https://www.youtube.com/watch?v=T-HGdc8L-7w
+Programming with Mosh\
+https://www.youtube.com/watch?v=pTB0EiLXUC8&t=17s<br/>
+The Coding Train\
+https://www.youtube.com/watch?v=T-HGdc8L-7w<br/>
