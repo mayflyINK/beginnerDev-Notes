@@ -20,6 +20,9 @@ Secure Shell (ssh) uses encryption to make a secure connection between a client 
 https://www.youtube.com/watch?v=FXbqO61_NVc
 
 #### let's encrypt SSL certificates
+Let's Encrypt is a free SSL certificate issuer, requires ACME protocol to issue and install certificates via ssh.
+https://letsencrypt.org/getting-started/
+
 acme.sh\
 https://github.com/acmesh-official/acme.sh/wiki/Simple-guide-to-add-TLS-cert-to-cpanel
   
