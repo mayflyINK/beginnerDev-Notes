@@ -10,18 +10,24 @@ Secure Shell (ssh) uses encryption to make a secure connection between a client 
   - `ssh port` - example: 12345
 - open powershell type `ssh` and enter to check "openssh" is installed on windows machine
 - to login remotely type
-  - `ssh user123@example.com -p12345` (powershell may prompt you to confirm you want connection - type `yes`)
-  - enter cpanel password on the next prompt
-- powershell directory should change from local to server - example `PS C:\Users\computername>` to `user123@server123 ~]$`
+  - `ssh user123@example.com -p12345` (replace "example.com" with your domain name)
+  - powershell may prompt you to confirm you want an remote connection - type `yes`
+  - on password prompt - enter cpanel password
+- powershell directory should change from local to server - example `PS C:\Users\examplename>` to `user123@server123 ~]$`
   - type `ls` to see local folders, this should display your cpanel root directory contents
   
 **References**\
 https://www.youtube.com/watch?v=FXbqO61_NVc
 
 #### let's encrypt SSL certificates
-
+acme.sh\
+https://github.com/acmesh-official/acme.sh/wiki/Simple-guide-to-add-TLS-cert-to-cpanel
   
+certbot\
+- instructions for windows coming soon
 
+(old instructions)\
+https://www.youtube.com/watch?v=d-FQ0JTfUxI
 
 
 #### commands
