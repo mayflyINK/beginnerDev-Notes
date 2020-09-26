@@ -20,6 +20,11 @@ Make gitbash default terminal window in VS Code
   }
 }
 ```
+#### Extensions
+- indent-rainbow
+- Live Server
+  - `alt + L and alt + O` launch live server
+
 #### Shortcuts
 - `ctrl + shft + P` open command pallete
 - `ctrl ,` open settings
@@ -27,3 +32,6 @@ Make gitbash default terminal window in VS Code
 
 #### Emmet
 - `!` html start doc
+
+#### Chrome Dev Tools
+- `ctrl + shift + I` developer tools
