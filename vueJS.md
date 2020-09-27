@@ -21,17 +21,18 @@ Command Line
 Vue UI
 - `vue ui` starts graphic ui
 - select "create", browse to location and select "create a new project"
+- enter working directory eg. C:\Users\Workspace (can add to favourites)
+
 - name project folder eg "test_application"
-  - set package manager `npm`
-  - default preset
+  - set package manager `npm` (this should be default)
   - create project
 - Tasks > serve > Run task (same as `npm run serve` in cli)
   - wait for building to finish
   - select "Open app" to view in browser port 8080
-  
-  VS Code
-  - open project folder
-  
+
+VS Code
+- open project folder
+- install syntax highlight extension "Vetur" by Pine Wu
 
 #### References
 - https://vuejs.org
