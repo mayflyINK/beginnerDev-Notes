@@ -29,6 +29,7 @@ Make gitbash default terminal window in VS Code
 - `ctrl + shft + P` open command pallete
 - `ctrl ,` open settings
 - `f2` rename variable and function simultaneously
+- `ctrl + g`go to line
 
 #### Emmet
 - `!` html start doc
