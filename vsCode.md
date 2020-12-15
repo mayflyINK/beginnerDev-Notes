@@ -32,7 +32,18 @@ Make gitbash default terminal window in VS Code
 - `f2` rename variable and function simultaneously
 - `ctrl + g`go to line
 
-#### Emmet
+#### Keybindings JSON
+```
+[
+    {
+        "key": "alt+w",
+        "command": "editor.emmet.action.wrapWithAbbreviation",
+        "when": "editorTextFocus && !editorReadonly"
+    }
+]
+```
+
+#### Emmet Shortcuts
 - `!` html start doc
 
 #### Chrome Dev Tools
