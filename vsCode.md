@@ -30,6 +30,7 @@ Make gitbash default terminal window in VS Code
 - `ctrl ,` open settings
 - `ctrl + /`comment out selection (html, css)
 - `f2` rename variable and function simultaneously
+- `shift + alt + left/right` expand selection
 - `ctrl + g`go to line
 
 #### Keybindings JSON
