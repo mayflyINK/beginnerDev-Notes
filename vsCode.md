@@ -25,13 +25,16 @@ Make gitbash default terminal window in VS Code
 - Live Server
   - `alt + L and alt + O` launch live server
 
-#### Shortcuts
+#### VS Shortcuts
 - `ctrl + shft + P` open command pallete
 - `ctrl ,` open settings
 - `ctrl + /`comment out selection (html, css)
 - `f2` rename variable and function simultaneously
 - `shift + alt + left/right` expand selection
 - `ctrl + g`go to line
+
+#### HTML
+- `&nbsp;` force space
 
 #### Keybindings JSON
 ```
