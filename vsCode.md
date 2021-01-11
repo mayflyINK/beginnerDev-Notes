@@ -34,6 +34,7 @@ Make gitbash default terminal window in VS Code
 - `ctrl + g + number` to go to line
 - `ctrl + l` select line
 - `alt + up/down` move selection up or down
+- `ctrl + space` evoke intellisense auto-suggest
 
 #### HTML
 - `&nbsp;` force space
