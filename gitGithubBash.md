@@ -33,7 +33,7 @@ https://www.youtube.com/watch?v=qdwWe9COT9k<br/>
 
 #### Getting started with gitbash
 - Open gitbash
-- select 'gitbash icon' in top left of terminal window to see 'options'
+- to see options/settings select 'gitbash icon' in top left of terminal window
 - `git` check git is installed, running on machine
 - Open config settings
  - `git config --list` (use `shift + insert`to paste into terminal window)
