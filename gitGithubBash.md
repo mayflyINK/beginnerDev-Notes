@@ -36,17 +36,20 @@ https://www.youtube.com/watch?v=qdwWe9COT9k<br/>
 - to see options/settings select 'gitbash icon' in top left of terminal window
 - `git` check git is installed, running on machine
 - Open config settings
- - `git config --list` (use `shift + insert`to paste into terminal window)
+  - $ `git config --list` 
+  - (`shift + insert`to paste clipboard into terminal window)
 - first set username and email
- - $ `git config --global user.name "username"`
- - $ `git config --global user.email example@email.com`
- - `cd $USER` - to naviate to windows user directory
-- `cd [drop folder - location path]` eg. desktop
-  - folder names with spaces must be enclosed with quotations marks eg `cd Documents\'Coding Projects'`
+  - $ `git config --global user.name "username"`
+  - $ `git config --global user.email example@email.com`
+ - $ `cd $USER` - to naviate to windows user directory
+- `cd [drop folder - location path]` eg. Desktop
+  - folder names with spaces must be enclosed with quotations marks eg `cd Documents/'Coding Projects'`
+  - folder names need to be seperated by a `/`
 - `pwd` to check "workind directory
-- `clear`
+- `clear` will clear the terminal window
 - create repo on github - copy an HTTP address
-- git clone [HTTP address]
+- git clone [HTTP address] eg. `https://github.com/username/project-name.git'
+  - when cloning a private repo need to insert username and password into HTTP address eg. git clone `https://username:mygithubpassword@github.com/username/project.git`
 - cd [cloned folder path]
 - make changes to files in folder
 - git status - get repo folder info
