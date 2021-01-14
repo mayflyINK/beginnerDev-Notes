@@ -42,6 +42,7 @@ https://www.youtube.com/watch?v=qdwWe9COT9k<br/>
  - $ `git config --global user.email example@email.com`
  - `cd $USER` - to naviate to windows user directory
 - `cd [drop folder - location path]` eg. desktop
+  - folder names with spaces must be enclosed with quotations marks eg `cd Documents\'Coding Projects'`
 - `pwd` to check "workind directory
 - `clear`
 - create repo on github - copy an HTTP address
