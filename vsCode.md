@@ -3,6 +3,10 @@ Install vs code
 
 #### Settings JSON
 Make gitbash default terminal window in VS Code
+- `Ctrl + (`) to open terminal
+- `Ctrl + Shft + P` open command pallete
+- search `Select Default Shell` and choose gitbash option
+
 ```
 "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe"
 
