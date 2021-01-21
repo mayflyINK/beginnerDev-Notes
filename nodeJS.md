@@ -23,9 +23,18 @@ open bash and type
 - `npm -v` to check npm version
 - `code .` launches vs code from terminal
 - `npm list -g --depth 0` list global install node packages (`--depth 0` is top level only, no dependencies)
+- `npm uninstall <package-name>` in node modules folder will uninstall local package
+  - `npm uninstall -g <package-name>` If the package is installed globally, you need to add the -g / --global flag
+  
+Using the -S flag, or --save, this operation will also remove the reference in the package.json file.
+
+If the package was a development dependency, listed in the devDependencies of the package.json file, you must use the -D / --save-dev flag to remove it from the file:
+
+- `npm uninstall -S <package-name>`
+- `npm uninstall -D <package-name>`
 
 node wraps js code in a module wrapper function
-`(function (export, require, module, __filename, __dirname) {})`
+- `(function (export, require, module, __filename, __dirname) {})`
 
 #### References
 Programming with Mosh - https://www.youtube.com/watch?v=TlB_eWDSMt4
