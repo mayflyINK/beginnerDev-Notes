@@ -22,6 +22,7 @@ open bash and type
 - `node --version` or `node -v` to check node version
 - `npm -v` to check npm version
 - `code .` launches vs code from terminal
+- `npm list -g --depth 0` list global install node packages (`--depth 0` is top level only, no dependencies)
 
 node wraps js code in a module wrapper function
 `(function (export, require, module, __filename, __dirname) {})`
