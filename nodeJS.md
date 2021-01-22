@@ -34,6 +34,7 @@ If the package was a development dependency, listed in the devDependencies of th
 - `npm uninstall -D <package-name>`
 - `npm cache clean` clear npm cache (can add `--force`)
   - folder location C:\Users\user-name\AppData\Roaming\npm-cache
+- `npm install <package>@<version>` eg `npm install gatsby@2.17.2`
 
 node wraps js code in a module wrapper function
 - `(function (export, require, module, __filename, __dirname) {})`
