@@ -18,6 +18,9 @@ node is a runtime environement for executing javascript outside a browser to bui
 - `console.log('hello world')` to test javascript in terminal
 - `.exit` will return to bash prompts
 
+Config
+- `npm config list` view node config settings
+
 open bash and type
 - `node --version` or `node -v` to check node version
 - `npm -v` to check npm version
@@ -36,6 +39,7 @@ If the package was a development dependency, listed in the devDependencies of th
 - `npm uninstall -D <package-name>`
 - `npm cache clean` clear npm cache (can add `--force`)
   - folder location C:\Users\user-name\AppData\Roaming\npm-cache
+Installing Packages
 - `npm install <package>@<version>` eg `npm install gatsby@2.17.2`
 
 node wraps js code in a module wrapper function
