@@ -22,7 +22,9 @@ open bash and type
 - `node --version` or `node -v` to check node version
 - `npm -v` to check npm version
 - `code .` launches vs code from terminal
-- `npm list -g --depth 0` list global install node packages (`--depth 0` is top level only, no dependencies)
+- `npm list` view list of locally installed packages and version numbers
+  - - `npm list <package name>` display package and dependencies
+  - `npm list -g --depth 0` list global install node packages (`--depth 0` is top level only, no dependencies)
 - `npm uninstall <package-name>` in node modules folder will uninstall local package
   - `npm uninstall -g <package-name>` If the package is installed globally, you need to add the -g / --global flag
   
