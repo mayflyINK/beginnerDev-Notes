@@ -26,7 +26,7 @@ open bash and type
 - `npm -v` to check npm version
 - `code .` launches vs code from terminal
 - `npm list` view list of locally installed packages and version numbers
-  - - `npm list <package name>` display package and dependencies
+  - `npm list <package name>` display package and dependencies
   - `npm list -g --depth 0` list global install node packages (`--depth 0` is top level only, no dependencies)
 - `npm uninstall <package-name>` in node modules folder will uninstall local package
   - `npm uninstall -g <package-name>` If the package is installed globally, you need to add the -g / --global flag
@@ -39,6 +39,10 @@ If the package was a development dependency, listed in the devDependencies of th
 - `npm uninstall -D <package-name>`
 - `npm cache clean` clear npm cache (can add `--force`)
   - folder location C:\Users\user-name\AppData\Roaming\npm-cache
+  
+Gatsby
+- `gatsby clean` deletes/clean cache folder
+
 Installing Packages
 - `npm install <package>@<version>` eg `npm install gatsby@2.17.2`
 
