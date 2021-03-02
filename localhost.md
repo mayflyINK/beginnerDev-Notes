@@ -12,7 +12,7 @@ If Python version returned above is 2.X
 - `python -m SimpleHTTPServer`
 
 If not able to use default port 8000
-- `python3 -m http.server 7800`
-- http://localhost:7800
+- `python -m http.server 8001`
+- http://localhost:8001
 
 https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server
