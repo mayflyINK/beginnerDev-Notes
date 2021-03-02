@@ -1,8 +1,8 @@
 # Beginner Markdown
 
-# Create Heading 1 with a single #
-## Create Heading 3 with a single ##
-### Create Heading 3 with a single ###
+# Create Heading 1 with a single `#`
+## Create Heading 3 with a single `##`
+### Create Heading 3 with a single `###`
 
 *Italics* or _italics_, **Bold** or __bold__ and ~~strikethrough~~
 
