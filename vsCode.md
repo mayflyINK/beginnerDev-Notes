@@ -33,12 +33,18 @@ Make gitbash default terminal window in VS Code
 - `ctrl + shft + P` open command pallete
 - `ctrl ,` open settings
 - `ctrl + /`comment out selection (html, css)
-- `f2` rename variable and function simultaneously
-- `shift + alt + left/right` expand selection
-- `ctrl + g + number` to go to line
-- `ctrl + l` select line
-- `alt + up/down` move selection up or down
+- `alt + up/down` move selected line up or down
 - `ctrl + space` evoke intellisense auto-suggest
+
+Search
+- `ctrl + g + number` to go to line
+
+Selecting
+- `ctrl + l` select line
+- `shift + alt` click and drag to select vertical column
+- `shift + alt + left/right` expand or contract selection
+- `f2` rename variable and function simultaneously
+
 
 #### HTML
 - `&nbsp;` force space
